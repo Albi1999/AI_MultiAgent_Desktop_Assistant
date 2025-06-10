@@ -1,0 +1,12 @@
+streamlit
+anthropic[bedrock,vertex]>=0.39.0
+jsonschema
+boto3
+google-auth<3,>=2
+fastapi
+uvicorn
+google-cloud-aiplatform
+vertexai
+requests
+dotenv
+openai
