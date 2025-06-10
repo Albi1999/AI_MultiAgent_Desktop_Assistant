@@ -1,5 +1,9 @@
 # AI Desktop Assistant
 This project demonstrates how to build an AI desktop assistant that can interact with a computer's desktop environment using Claude's vision capabilities. It includes a Streamlit interface for interacting with the assistant and a VNC server for displaying the desktop.
+
+> [!IMPORTANT]
+> This repository is inspired bt the [Anthropic Demo Repository](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo).
+
 ## Quickstart
 To quickly run the demo, you can use Docker. Make sure you have Docker installed on your machine.
 ### Prerequisites
